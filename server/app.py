@@ -1,5 +1,5 @@
 from config import app
-from Models import User
+# from models import User
 
 
 @app.route('/')
